@@ -43,5 +43,7 @@ public class App {
         System.out.println(jedis1.get("name"));
         JedisUtils.closeJedis(jedis1);
 
+
+        /*sadkjbls快放假了吧*/
     }
 }
